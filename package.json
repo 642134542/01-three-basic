@@ -1,0 +1,19 @@
+{
+  "name": "01-three-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel src/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "@tweenjs/tween.js": "^18.6.4",
+    "three": "^0.142.0"
+  }
+}
